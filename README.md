@@ -26,7 +26,7 @@ ________________________________________________________________________________
 #### - MongoDB
 #### - Mongoose
 
-## [Pseudo Diaries](https://cryptic-reaches-86657.herokuapp.com/students)
+## [Pseudo Diaries](https://pseudo-diary-project.herokuapp.com/students)
 
 ## Next steps 
 #### 1. We would like to make the page look better through Bootstrap and/or CSS 
